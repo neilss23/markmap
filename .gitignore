@@ -9,4 +9,4 @@
 *.pdf*
 *.png*
 *doctest-output*
-*.env*
+*.env
