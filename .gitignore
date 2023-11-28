@@ -1,0 +1,12 @@
+*venv*
+*.md*
+*.ipynb*
+*markmap*
+*summary*
+*__pycache__*
+*.DS_Store*
+*.ipynb_checkpoints*
+*.pdf*
+*.png*
+*doctest-output*
+*.env*
