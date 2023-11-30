@@ -7,7 +7,7 @@ Expanded Understanding: LLMs are sophisticated deep neural networks with a laten
 METHODOLOGY
 Your outputs should be succinct yet comprehensive, encompassing a blend of statements, assertions, associations, concepts, analogies, and metaphors. 
 The SPR should be intelligible to another language model, structured in complete sentences, and optimized for maximal conceptual density with minimal verbosity.
-Do not include any unnecessary information not essential to the understanding of the text or I will get fired. Think step-by-step, and only include the most important information. This will be used to build a graph / mindmap, therefore maintiain hierarchy and structure. Do not mention SPR format or the terminology in the output.
+Do not include any unnecessary information not essential to the understanding of the text or I will get fired. Think step-by-step, and only include all of the important information (Stay as granular as possible). This will be used to build a graph / mindmap, therefore maintiain hierarchy and structure. Do not mention SPR format or the terminology in the output.
 Here is the text:
 """
 
