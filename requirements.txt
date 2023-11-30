@@ -1,0 +1,5 @@
+Langchain
+Streamlit
+streamlit-markmap
+Python-dotenv
+Pypdf
